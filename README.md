@@ -34,4 +34,23 @@ profissional em diferentes contextos.
 | **GRUPO-01** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-01) |
 ---
 
+# 🚀 GRUPO 02
+## Tema: PProjeto Monitoramento de Dengue e sua Correlação com a Infraestrutura de Saneamento Básico
+
+### 📝 Descrição do Projeto
+O projeto utilizará duas fontes principais de dados públicos: o DATASUS (especificamente o Sistema de Informação de Agravos de Notificação - SINAN, focado nos casos de Dengue) e o IBGE (dados do Censo e Pesquisa Nacional de Saneamento Básico).
+- Formato e Volume: Os dados do DATASUS geralmente são disponibilizados em formatos específicos (como .dbc ou .csv), enquanto os do IBGE podem ser acessados via API ou arquivos .csv/.xls. O volume nacional é massivo, portanto, os dados serão filtrados espacialmente (ex: focando na região de Bauru) para otimizar o processamento.
+- Frequência e Qualidade: A atualização dos casos de dengue ocorre com alta frequência (boletins epidemiológicos semanais/mensais). A qualidade dos dados brutos apresenta desafios técnicos ideais para a disciplina, exigindo tratamento rigoroso de valores nulos (missing values), padronização de chaves primárias (como os códigos de município do IBGE) e rotinas de ETL (Extração, Transformação e Carga) para unificar as duas bases em um modelo relacional eficiente.
+
+### 👥 Integrantes do Grupo
+* Diego Rafael de Oliveira
+* Luiz Carlos Scalfi
+
+### 📂 Documentação e Arquivos
+- [ ] Projeto
+
+
+| **GRUPO-02** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-02) |
+---
+
 *FATEC Bauru - Prof. Luis Alexandre - Semestre 2026.1*
