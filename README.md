@@ -10,14 +10,14 @@ gerida pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixe
 Esta base é um dos pilares da regulação do ensino superior no Brasil e oferece um retrato
 detalhado do desempenho acadêmico em nível nacional.
 Características da base:
-● Tema: Indicadores de qualidade e desempenho acadêmico dos cursos de
+- Tema: Indicadores de qualidade e desempenho acadêmico dos cursos de
 graduação no Brasil.
-● Origem: Dados Abertos do INEP/MEC, acessíveis via portal oficial do Governo
+- Origem: Dados Abertos do INEP/MEC, acessíveis via portal oficial do Governo
 Federal.
-● Formato: Arquivo estruturado em XLSX, contendo métricas de desempenho e
+- Formato: Arquivo estruturado em XLSX, contendo métricas de desempenho e
 identificadores institucionais.
-● Período: Ciclo avaliativo referente ao ano de 2023.
-● Finalidade original: Monitorar o cumprimento das diretrizes curriculares e a
+- Período: Ciclo avaliativo referente ao ano de 2023.
+- Finalidade original: Monitorar o cumprimento das diretrizes curriculares e a
 qualidade da formação oferecida pelas Instituições de Ensino Superior (IES).
 A base é composta por variáveis geográficas, administrativas e acadêmicas, permitindo
 uma análise profunda sobre como fatores externos influenciam a qualidade da formação
@@ -31,7 +31,7 @@ profissional em diferentes contextos.
 - [ ] Projeto
 
 
-| **GRUPO-01** | 2025.2 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2025-1/tree/main/PROJETOS/GRUPO-01) |
+| **GRUPO-01** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-01) |
 ---
 
 *FATEC Bauru - Prof. Luis Alexandre - Semestre 2026.1*
