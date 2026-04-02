@@ -44,13 +44,31 @@ O projeto utilizará duas fontes principais de dados públicos: o DATASUS (espec
 
 ### 👥 Integrantes do Grupo
 * Diego Rafael de Oliveira
-* Luiz Carlos Scalfi
+* Luiz Carlos Scalfi Theodoro
 
 ### 📂 Documentação e Arquivos
 - [ ] Projeto
 
 
 | **GRUPO-02** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-02) |
+---
+
+# 🚀 GRUPO 03
+## Tema: Seleção e Diagnóstico de Base de Dados Pública
+
+### 📝 Descrição do Projeto
+Este documento apresenta o diagnóstico e planejamento da Etapa 1 do projeto de extensão da disciplina de Banco de Dados. O objetivo desta etapa é selecionar uma base de dados pública que atenda a uma demanda real da sociedade, identificar seu impacto social, definir o público beneficiado e estabelecer o escopo técnico e organizacional do projeto.
+
+A atividade integra os pilares da Curricularização da Extensão, promovendo a conexão entre o conhecimento técnico adquirido na graduação e a sua aplicação em contextos sociais concretos, contribuindo para a formação de profissionais comprometidos com o desenvolvimento da sociedade.
+
+### 👥 Integrantes do Grupo
+* João Pedro Gomes de Souza
+
+### 📂 Documentação e Arquivos
+- [ ] Projeto
+
+
+| **GRUPO-03** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-03) |
 ---
 
 *FATEC Bauru - Prof. Luis Alexandre - Semestre 2026.1*
