@@ -154,4 +154,31 @@ Como objetivos específicos, destacam-se:
 | **GRUPO-06** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-06) |
 ---
 
+# 🚀 GRUPO 07
+## Tema: PROJETO BANCO DE DADOS PARA MAPEAMENTO DE AGRICULTURA URBANA E SERVIÇOS PARA AGRICULTURA
+
+### 📝 Descrição do Projeto
+Diante do conteúdo apresentado a respeito da prática de agricultura urbana, dos principais 
+benefícios dessa atividade para a população, para a economia e para o meio ambiente das cidades, 
+bem como do combate à insegurança alimentar à criação de políticas públicas abrangentes, o 
+presente trabalho, desenvolvido para a disciplina ‘Laboratório de desenvolvimento em Banco de 
+Dados V’, tem como objetivo encontrar e analisar bases de dados abertas referentes à temática 
+exposta na sessão 1. As bases de dados encontradas deverão ser detalhadas quanto: (1) Ao formato 
+da estrutura dos dados utilizados (normalmente json, csv ou xml), (2) A confiabilidade e 
+frequência de atualização dos dados da base e (3) Ao propósito para o qual essa base de dados foi 
+criada (público-alvo, questões sociais, impacto esperado na população, etc). Os dados utilizados 
+nas bases públicas encontradas deverão ser exportados e manuseados para a criação de um Banco 
+de Dados capaz de contribuir para a criação de um sistema plausível e que possa contribuir de 
+forma direta ou indiretamente para a população-alvo.
+
+### 👥 Integrantes do Grupo
+* João Pedro da Silva Faria
+
+### 📂 Documentação e Arquivos
+- [ ] Projeto
+
+
+| **GRUPO-07** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-07) |
+---
+
 *FATEC Bauru - Prof. Luis Alexandre - Semestre 2026.1*
