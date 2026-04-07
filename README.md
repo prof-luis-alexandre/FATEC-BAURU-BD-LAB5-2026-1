@@ -181,4 +181,24 @@ forma direta ou indiretamente para a população-alvo.
 | **GRUPO-07** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-07) |
 ---
 
+# 🚀 GRUPO 08
+## Tema: PROJETO uso de dados públicos para monitorar a relação entre a inflação de alimentos e o rendimento médio real da população brasileira como indicador de pressão sobre o poder de compra e a segurança alimentar
+
+### 📝 Descrição do Projeto
+A escolha das séries do IPEAData apresenta vantagens técnicas relevantes para o desenvolvimento do projeto.
+Trata-se de dados provenientes de fontes oficiais e amplamente utilizadas em estudos econômicos, garantindo confiabilidade e padronização metodológica. Isso contribui para a consistência das análises realizadas a partir dela.
+Os dados estão disponíveis em formato estruturado e acessível por API, o que facilita a extração automatizada e a integração em processos de tratamento e organização. Esse formato é adequado para a construção de pipelines de coleta, transformação e consolidação de informações.
+Outro fator relevante é a compatibilidade temporal entre as séries selecionadas, o que permite realizar cruzamentos por período e construir indicadores comparativos. A disponibilidade de séries históricas relativamente extensas também possibilita observar tendências ao longo do tempo.
+Por fim, o volume e a estrutura dos dados são adequados ao escopo do projeto acadêmico, permitindo aplicar técnicas de coleta, organização e consolidação de dados públicos em um banco estruturado voltado à análise socioeconômica.
+
+### 👥 Integrantes do Grupo
+* Samuel Ferreira de Azevedo
+
+### 📂 Documentação e Arquivos
+- [ ] Projeto
+
+
+| **GRUPO-08** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-08) |
+---
+
 *FATEC Bauru - Prof. Luis Alexandre - Semestre 2026.1*
