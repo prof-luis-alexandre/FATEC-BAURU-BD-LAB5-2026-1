@@ -148,7 +148,8 @@ Como objetivos específicos, destacam-se:
 * João Antonio de Camargo
 
 ### 📂 Documentação e Arquivos
-- [ ] Projeto
+- [ ] Etapa 1 - Planejamento e Diagnóstico Social (projeto)
+- [ ] Etapa 2 - ETL e Preparação dos Dados
 
 
 | **GRUPO-06** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-06) |
@@ -175,7 +176,8 @@ forma direta ou indiretamente para a população-alvo.
 * João Pedro da Silva Faria
 
 ### 📂 Documentação e Arquivos
-- [ ] Projeto
+- [ ] Etapa 1 - Planejamento e Diagnóstico Social (projeto)
+- [ ] Etapa 2 - ETL e Preparação dos Dados
 
 
 | **GRUPO-07** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-07) |
@@ -199,6 +201,25 @@ Por fim, o volume e a estrutura dos dados são adequados ao escopo do projeto ac
 
 
 | **GRUPO-08** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-08) |
+---
+
+# 🚀 GRUPO 09
+## Tema: PROJETO Dados de Transfusões de Hemocomponentes
+
+### 📝 Descrição do Projeto
+A base de dados escolhida para o desenvolvimento do projeto é Transfusões de Hemocomponentes, disponibilizada pela Empresa Brasileira de Serviços Hospitalares (EBSERH), por meio do Hospital Universitário Onofre Lopes (HUOL/UFRN), no portal 
+de dados abertos do governo.
+
+### 👥 Integrantes do Grupo
+* Maria Eduarda Giglioli Guilice
+* Maria Luiza Busatto Truijo  
+
+### 📂 Documentação e Arquivos
+- [ ] Etapa 1 - Planejamento e Diagnóstico Social (projeto)
+- [ ] Etapa 2 - ETL e Preparação dos Dados
+
+
+| **GRUPO-09** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-09) |
 ---
 
 *FATEC Bauru - Prof. Luis Alexandre - Semestre 2026.1*
