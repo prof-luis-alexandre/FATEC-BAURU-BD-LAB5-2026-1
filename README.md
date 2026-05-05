@@ -28,7 +28,8 @@ profissional em diferentes contextos.
 * Luis Victor Rosa de Almeida Santana Videira
 
 ### 📂 Documentação e Arquivos
-- [ ] Projeto
+- [ ] Etapa 1 - Planejamento e Diagnóstico Social (projeto)
+- [ ] Etapa 2 - ETL e Preparação dos Dados
 
 
 | **GRUPO-01** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-01) |
@@ -47,7 +48,8 @@ O projeto utilizará duas fontes principais de dados públicos: o DATASUS (espec
 * Luiz Carlos Scalfi Theodoro
 
 ### 📂 Documentação e Arquivos
-- [ ] Projeto
+- [ ] Etapa 1 - Planejamento e Diagnóstico Social (projeto)
+- [ ] Etapa 2 - ETL e Preparação dos Dados
 
 
 | **GRUPO-02** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-02) |
@@ -65,7 +67,8 @@ A atividade integra os pilares da Curricularização da Extensão, promovendo a 
 * João Pedro Gomes de Souza
 
 ### 📂 Documentação e Arquivos
-- [ ] Projeto
+- [ ] Etapa 1 - Planejamento e Diagnóstico Social (projeto)
+- [ ] Etapa 2 - ETL e Preparação dos Dados
 
 
 | **GRUPO-03** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-03) |
@@ -84,10 +87,10 @@ O projeto atua como um instrumento direto de cidadania ativa e Accountability (r
 * Davi Ballielo Galvani 
 * Augusto Bueno de Almeida 
 * João Carlos Scheffer Junior
-* Pedro Henrique Martins Nascimento 
 
 ### 📂 Documentação e Arquivos
-- [ ] Projeto
+- [ ] Etapa 1 - Planejamento e Diagnóstico Social (projeto)
+- [ ] Etapa 2 - ETL e Preparação dos Dados
 
 
 | **GRUPO-04** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-04) |
@@ -124,7 +127,8 @@ necessidade social concreta.
 * Guilherme Henrique Capucho
 
 ### 📂 Documentação e Arquivos
-- [ ] Projeto
+- [ ] Etapa 1 - Planejamento e Diagnóstico Social (projeto)
+- [ ] Etapa 2 - ETL e Preparação dos Dados
 
 
 | **GRUPO-05** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-05) |
@@ -150,6 +154,7 @@ Como objetivos específicos, destacam-se:
 ### 📂 Documentação e Arquivos
 - [ ] Etapa 1 - Planejamento e Diagnóstico Social (projeto)
 - [ ] Etapa 2 - ETL e Preparação dos Dados
+- [ ] Etapa 3 - Modelagem e Implementação do Banco de Dados
 
 
 | **GRUPO-06** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-06) |

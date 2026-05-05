@@ -1,0 +1,27 @@
+"ï»¿""Tabela 6805 - DomicÃ­lios particulares permanentes ocupados","por tipo de esgotamento sanitÃ¡rio""",,,,,,,,,,
+VariÃ¡vel - DomicÃ­lios particulares permanentes ocupados (Unidades),,,,,,,,,,,
+CÃ³d.,MunicÃ­pio,Ano x Tipo de esgotamento sanitÃ¡rio,,,,,,,,,
+CÃ³d.,MunicÃ­pio,2022,,,,,,,,,
+CÃ³d.,MunicÃ­pio,Total,"Rede geral, rede pluvial ou fossa ligada Ã  rede",Rede geral ou pluvial,Fossa sÃ©ptica ou fossa filtro ligada Ã  rede,Fossa sÃ©ptica ou fossa filtro nÃ£o ligada Ã  rede,Fossa rudimentar ou buraco,Vala,"Rio, lago, cÃ³rrego ou mar",Outra forma,NÃ£o tinham banheiro nem sanitÃ¡rio
+3506003,Bauru (SP),140033,135932,135731,201,1704,2157,24,114,93,9
+Fonte: IBGE - Censo DemogrÃ¡fico,,,,,,,,,,,
+,,,,,,,,,,,
+Notas,,,,,,,,,,,
+1 - Dados do Universo,,,,,,,,,,,
+,,,,,,,,,,,
+Legenda,,,,,,,,,,,
+SÃ­mbolo,Significado,,,,,,,,,,
+-,"Zero absoluto, nÃ£o resultante de um cÃ¡lculo ou arredondamento.
+Ex: Em determinado municÃ­pio nÃ£o existem pessoas de 14 anos de idade sem instruÃ§Ã£o.",,,,,,,,,,
+0,"Zero resultante de um cÃ¡lculo ou arredondamento.
+Ex: A inflaÃ§Ã£o do feijÃ£o em determinada RegiÃ£o Metropolitana foi 0.
+Determinado municÃ­pio produziu 400 kg de sementes de girassol e os dados da tabela sÃ£o expressos em toneladas.",,,,,,,,,,
+X,"Valor inibido para nÃ£o identificar o informante.
+Ex: Determinado municÃ­pio sÃ³ possui uma empresa produtora de cimento, logo o valor de sua produÃ§Ã£o deve ser inibido.",,,,,,,,,,
+..,"Valor nÃ£o se aplica.
+Ex: NÃ£o se pode obter o total da produÃ§Ã£o agrÃ­cola em determinado municÃ­pio quando os produtos agrÃ­colas sÃ£o contabilizados com unidades de medida distintas.",,,,,,,,,,
+...,"Valor nÃ£o disponÃ­vel.
+Ex: A produÃ§Ã£o de feijÃ£o em determinado municÃ­pio nÃ£o foi pesquisada ou determinado municÃ­pio nÃ£o existia no ano da pesquisa.",,,,,,,,,,
+"A a Z
+(exceto X)","Significa uma faixa de valores. Varia em funÃ§Ã£o da tabela (se for o caso).
+Ex: O nÃ­vel de precisÃ£o da produÃ§Ã£o estimada de combustÃ­veis estÃ¡ na faixa A (95 a 100%)",,,,,,,,,,
