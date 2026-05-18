@@ -201,9 +201,12 @@ Por fim, o volume e a estrutura dos dados são adequados ao escopo do projeto ac
 
 ### 👥 Integrantes do Grupo
 * Samuel Ferreira de Azevedo
+* Egidio Brumati Dugaich
+* Leandra Cristiane Rosa
 
 ### 📂 Documentação e Arquivos
-- [ ] Projeto
+- [ ] Etapa 1 - Planejamento e Diagnóstico Social (projeto)
+- [ ] Etapa 2 - ETL e Preparação dos Dados
 
 
 | **GRUPO-08** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-08) |
