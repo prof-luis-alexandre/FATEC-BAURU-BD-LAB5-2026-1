@@ -1,0 +1,28 @@
+
+ANÁLISE INICIAL DOS DADOS — FASE 2
+
+1. Base: IPCA alimentos e bebidas
+
+A base bruta de IPCA alimentos possui 547 registros e 7 colunas. O período observado vai de 1980-10-01 até 2026-04-01.
+
+Foi identificado 1 valor faltante na base. Não foram encontradas linhas duplicadas nem datas duplicadas.
+
+A coluna de valor representa a taxa de variação mensal do grupo alimentos e bebidas do IPCA. Foram encontrados valores negativos, mas eles não representam necessariamente erro, pois uma taxa negativa pode indicar queda de preços em determinado mês.
+
+O valor máximo identificado foi de 90,23% ao mês. Embora seja elevado, ele deve ser analisado considerando que a série começa em 1980, período marcado por alta inflação no Brasil.
+
+2. Base: rendimento médio real
+
+A base bruta de rendimento real possui 1848 registros e 7 colunas. O período observado vai de 2012-01-01 até 2025-10-01.
+
+Não foram encontrados valores faltantes na coluna de rendimento. Foram identificadas 10 linhas duplicadas e 1792 datas duplicadas.
+
+O principal problema estrutural identificado foi a existência de múltiplos registros para a mesma data, sem uma coluna explícita indicando o recorte correspondente a cada linha. Isso dificulta a interpretação direta dos dados e poderia gerar análises incorretas caso a base fosse utilizada sem tratamento.
+
+Como solução técnica para a etapa de limpeza, será feita a remoção de duplicidades exatas e a agregação mensal dos valores de rendimento pela média dos registros disponíveis em cada data.
+
+3. Impacto social dos problemas encontrados
+
+Problemas como valores faltantes, duplicidades e ausência de identificação clara dos recortes podem prejudicar o uso social dos dados. Uma base não tratada pode levar jornalistas, estudantes, pesquisadores, organizações sociais ou cidadãos a conclusões equivocadas sobre a relação entre renda e custo dos alimentos.
+
+A limpeza e padronização dos dados é necessária para tornar a base mais segura, acessível e compreensível para uso pela sociedade.

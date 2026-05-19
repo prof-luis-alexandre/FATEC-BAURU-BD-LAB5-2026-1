@@ -1,0 +1,12 @@
+﻿coluna,tipo,descricao
+data_referencia,data,Data de referência do período trimestral.
+ano,inteiro,Ano da observação.
+trimestre,inteiro,"Trimestre da observação, variando de 1 a 4."
+mes,inteiro,"Mês inicial do trimestre usado como referência: janeiro, abril, julho ou outubro."
+ipca_alimentos_acumulado_trimestre_pct,decimal,"Variação acumulada do IPCA de alimentos e bebidas no trimestre, em percentual."
+quantidade_meses_ipca_no_trimestre,inteiro,Quantidade de meses usados no cálculo do IPCA acumulado trimestral.
+rendimento_real_medio_reais,decimal,"Valor médio do rendimento real no período de referência, em reais."
+rendimento_real_variacao_trimestral_pct,decimal,Variação percentual do rendimento real em relação ao período trimestral anterior.
+indicador_pressao_alimentar,decimal,Diferença entre o IPCA de alimentos acumulado no trimestre e a variação trimestral do rendimento real.
+classificacao_pressao,texto,"Classificação interpretativa do indicador: sem_classificacao, sem_pressao, pressao_moderada ou alta_pressao."
+quantidade_registros_agregados,inteiro,Quantidade de registros usados na média do rendimento real.

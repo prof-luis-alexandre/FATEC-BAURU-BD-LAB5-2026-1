@@ -1,0 +1,3 @@
+﻿base,linhas_antes,linhas_depois,linhas_removidas,criterio_limpeza,linhas_removidas_ou_agregadas
+ipca_alimentos,547,546,1,Remoção de registros sem data ou sem valor de variação mensal; padronização de colunas e tipos.,0
+rendimento_real,1848,56,0,"Remoção de duplicidades exatas e agregação mensal pela média, devido à existência de múltiplos registros por data sem coluna explícita de recorte.",1792

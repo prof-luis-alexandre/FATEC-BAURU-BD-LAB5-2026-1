@@ -1,0 +1,3 @@
+﻿base,quantidade_linhas,quantidade_colunas,colunas,total_valores_faltantes,linhas_duplicadas,data_minima,data_maxima,datas_invalidas,datas_duplicadas,coluna_valor,valores_invalidos,valor_minimo,valor_maximo,valores_negativos
+ipca_alimentos_bruto,547,7,"DATE, CODE, RAW DATE, DAY, MONTH, YEAR, VALUE ((% a.m.))",1,0,1980-10-01 00:00:00,2026-04-01 00:00:00,0,0,VALUE ((% a.m.)),1,-3.49,90.23,96
+rendimento_real_bruto,1848,7,"DATE, CODE, RAW DATE, DAY, MONTH, YEAR, VALUE (R$)",0,10,2012-01-01 00:00:00,2025-10-01 00:00:00,0,1792,VALUE (R$),0,1571.0,6534.0,0

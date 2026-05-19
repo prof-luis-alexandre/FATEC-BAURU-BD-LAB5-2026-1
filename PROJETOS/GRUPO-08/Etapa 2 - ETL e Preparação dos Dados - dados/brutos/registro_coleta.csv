@@ -1,0 +1,3 @@
+﻿nome_base,codigo_ipea,descricao,fonte,metodo_coleta,data_coleta,arquivo_gerado,finalidade_social
+ipca_alimentos,PRECOS12_IPCAAB12,IPCA - alimentos e bebidas - taxa de variação mensal,IPEAData,API via biblioteca ipeadatapy,2026-05-17 18:46:19,dados/brutos/ipca_alimentos_bruto.csv,Acompanhar a variação dos preços de alimentos e bebidas como indicador de custo de vida.
+rendimento_real,PNADCT_RRETUF,Rendimento médio real de todos os trabalhos efetivo,IPEAData,API via biblioteca ipeadatapy,2026-05-17 18:46:19,dados/brutos/rendimento_real_bruto.csv,Acompanhar a evolução da renda real da população ocupada para comparação com o custo dos alimentos.

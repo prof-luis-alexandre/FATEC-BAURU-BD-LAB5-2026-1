@@ -1,0 +1,30 @@
+
+RESUMO DA BASE CONSOLIDADA — PRESSÃO ALIMENTAR
+
+A base final consolidada possui 56 registros trimestrais, cobrindo o período comum entre as séries de IPCA alimentos e rendimento real.
+
+Período da base:
+- Data mínima: 2012-01-01
+- Data máxima: 2025-10-01
+
+Periodicidade:
+
+A série de IPCA alimentos possui periodicidade mensal. Porém, a série de rendimento real utilizada possui periodicidade trimestral. Para manter coerência temporal na comparação, o IPCA mensal foi convertido para variação acumulada trimestral antes da consolidação final.
+
+Classificação do indicador de pressão alimentar:
+- sem_pressao: 25 períodos
+- alta_pressao: 24 períodos
+- pressao_moderada: 6 períodos
+- sem_classificacao: 1 período
+
+Interpretação:
+
+O indicador compara a variação acumulada do IPCA de alimentos no trimestre com a variação trimestral do rendimento real.
+
+Quando o indicador é positivo, os alimentos ficaram relativamente mais pressionados em relação à renda naquele período. Quando é negativo ou igual a zero, a variação da renda acompanhou ou superou a variação acumulada dos alimentos.
+
+A primeira linha ficou sem classificação porque o cálculo da variação do rendimento depende do período anterior.
+
+Observação metodológica:
+
+O indicador de pressão alimentar foi calculado como a diferença entre o IPCA de alimentos acumulado no trimestre e a variação trimestral do rendimento real. Trata-se de um indicador simplificado, criado para fins acadêmicos e extensionistas, com o objetivo de tornar a relação entre custo dos alimentos e renda mais compreensível para a sociedade.
