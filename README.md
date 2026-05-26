@@ -95,6 +95,8 @@ O projeto atua como um instrumento direto de cidadania ativa e Accountability (r
 ### 📂 Documentação e Arquivos
 - [ ] Etapa 1 - Planejamento e Diagnóstico Social (projeto)
 - [ ] Etapa 2 - ETL e Preparação dos Dados
+- [ ] Etapa 3 - Modelagem e Implementação do Banco de Dados
+- [ ] Etapa 4 - Visualização, Publicação e Divulgação Extensionista
 
 
 | **GRUPO-04** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-04) |
