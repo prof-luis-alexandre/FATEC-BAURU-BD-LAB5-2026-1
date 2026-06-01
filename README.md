@@ -53,6 +53,7 @@ O projeto utilizará duas fontes principais de dados públicos: o DATASUS (espec
 - [ ] Etapa 1 - Planejamento e Diagnóstico Social (projeto)
 - [ ] Etapa 2 - ETL e Preparação dos Dados
 - [ ] Etapa 3 - Modelagem e Implementação do Banco de Dados
+- [ ] Etapa 4 - Visualização, Publicação e Divulgação Extensionista
 
 
 | **GRUPO-02** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-02) |
@@ -237,6 +238,7 @@ de dados abertos do governo.
 - [ ] Etapa 1 - Planejamento e Diagnóstico Social (projeto)
 - [ ] Etapa 2 - ETL e Preparação dos Dados
 - [ ] Etapa 3 - Modelagem e Implementação do Banco de Dados
+- [ ] Etapa 4 - Visualização, Publicação e Divulgação Extensionista
 
 
 | **GRUPO-09** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-09) |
