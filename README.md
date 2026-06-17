@@ -247,4 +247,23 @@ de dados abertos do governo.
 | **GRUPO-09** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-09) |
 ---
 
+# 🚀 GRUPO 10
+## Tema: PROJETO TRANSFORMANDO A BASE DE DADOS “CASOS, ÓBITOS E DOENÇAS PREEXISTENTES” EM UMA BASE ACESSÍVEL A SOCIEDADE
+
+### 📝 Descrição do Projeto
+A base de dados selecionada aborda o tema dos casos e óbitos por COVID-19, com ênfase na presença de doenças preexistentes e em variáveis associadas ao perfil dos pacientes, como município de residência, Departamento Regional de Saúde, sexo, idade e confirmação diagnóstica. Trata-se, portanto, de um conjunto de dados voltado à caracterização epidemiológica da doença, permitindo observar não apenas a ocorrência dos casos, mas também fatores clínicos e demográficos relacionados ao agravamento e ao desfecho dos pacientes.
+
+### 👥 Integrantes do Grupo
+* Paulo Mateus Coelho Sacho
+* Gustavo Alonso Ziglio  
+* Heitor Henrique Gutierres
+
+### 📂 Documentação e Arquivos
+- [ ] Etapa 1 - Planejamento e Diagnóstico Social (projeto)
+
+
+
+| **GRUPO-10** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-10) |
+---
+
 *FATEC Bauru - Prof. Luis Alexandre - Semestre 2026.1*
