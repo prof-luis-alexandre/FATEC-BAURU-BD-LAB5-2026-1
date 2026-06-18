@@ -262,8 +262,32 @@ A base de dados selecionada aborda o tema dos casos e óbitos por COVID-19, com 
 - [ ] Etapa 1 - Planejamento e Diagnóstico Social (projeto)
 
 
-
 | **GRUPO-10** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-10) |
+---
+
+# 🚀 GRUPO 11
+## Tema: PROJETO Banco de Dados Demográfico Brasileiro utilizando Dados Públicos do IBGE
+
+### 📝 Descrição do Projeto
+O projeto utilizará dados públicos disponibilizados pelo IBGE, uma das 
+principais fontes oficiais de informações estatísticas do Brasil. A escolha dessa base foi realizada devido à confiabilidade dos dados, ampla 
+cobertura territorial, facilidade de acesso e potencial para aplicação de 
+conceitos estudados no curso de Banco de Dados, incluindo coleta de dados, 
+ETL, modelagem relacional, implementação em SGBD e visualização de 
+informações. Os dados poderão ser disponibilizados em formatos como CSV e Excel, 
+facilitando seu tratamento e integração em banco de dados relacional.
+
+### 👥 Integrantes do Grupo
+* Alana Queiroz Braga   
+
+### 📂 Documentação e Arquivos
+- [ ] Etapa 1 - Planejamento e Diagnóstico Social (projeto)
+- [ ] Etapa 2 - ETL e Preparação dos Dados
+- [ ] Etapa 3 - Modelagem e Implementação do Banco de Dados
+- [ ] Etapa 4 - Visualização, Publicação e Divulgação Extensionista
+
+
+| **GRUPO-11** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-11) |
 ---
 
 *FATEC Bauru - Prof. Luis Alexandre - Semestre 2026.1*
