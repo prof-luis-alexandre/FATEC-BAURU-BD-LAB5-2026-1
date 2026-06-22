@@ -260,6 +260,9 @@ A base de dados selecionada aborda o tema dos casos e óbitos por COVID-19, com 
 
 ### 📂 Documentação e Arquivos
 - [ ] Etapa 1 - Planejamento e Diagnóstico Social (projeto)
+- [ ] Etapa 2 - ETL e Preparação dos Dados
+- [ ] Etapa 3 - Modelagem e Implementação do Banco de Dados
+- [ ] Etapa 4 - Visualização, Publicação e Divulgação Extensionista
 
 
 | **GRUPO-10** | 2026.1 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2026-1/tree/main/PROJETOS/GRUPO-10) |
